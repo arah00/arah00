@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **arah00/arah00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Highly organized and independent. Able to effectively coordinate tasks to accomplish goals with timeliness and creativity.
+Highly organized and independent software developer. Able to effectively coordinate tasks to accomplish goals with timeliness and creativity.
